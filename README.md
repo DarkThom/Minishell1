@@ -1,2 +1,6 @@
 # Minishell1
-Projet Minishell1 d'Epitech. Reproduction d'un shell à l'image de tcsh. Gestion des commandes UNIX et de la modification de l'environnement. Implémentation des builtins de couleur red, blue, green, yellow
+
+The goal of this project was to reproduce the performance of tcsh :
+- UNIX command and builtins management. 
+- Implementation of builtins env, cd, setenv, unsetenv, getenv
+- **BONUS** : Impletentation of colors builtins (red, green, yellow, blue)
